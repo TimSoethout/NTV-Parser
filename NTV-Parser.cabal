@@ -1,0 +1,7 @@
+name:     NTV-Parser
+version:  0.1
+
+executable NTV-Parser
+  hs-source-dirs:  src
+  main-is:         Main.hs
+
